@@ -26,7 +26,7 @@ This project aims to predict restaurant ratings using machine learning algorithm
 ## Usage
 
 1. Clone the repository:
-     git clone https://github.com/your-username/restaurant-ratings-prediction.git
+     git clone : (https://github.com/Mhari2410/cognifyz_task1)
 2. Install the required dependencies:
      pip install -r requirements.txt
 
